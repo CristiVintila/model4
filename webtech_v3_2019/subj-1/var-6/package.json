@@ -1,0 +1,19 @@
+{
+  "name": "var-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-jest": "*",
+    "jest": "*",
+    "superagent": "^4.1.0",
+    "supertest": "^3.4.2"
+  },
+  "scripts": {
+    "test": "jest --noStackTrace"
+  },
+  "author": "",
+  "license": "ISC"
+}
